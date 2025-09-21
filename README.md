@@ -259,7 +259,6 @@ This simulator is suitable for:
 
 - **`report-main.md`**: Comprehensive technical documentation with implementation details, mathematical analysis, and performance comparisons
 - **`USAGE.md`**: Detailed usage instructions with examples
-- **`CLI_INPUT_GUIDE.md`**: Command-line interface documentation
 
 ## Technical Notes
 
