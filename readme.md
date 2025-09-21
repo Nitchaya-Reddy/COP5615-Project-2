@@ -106,6 +106,18 @@
 # push-sum imp3D
 <img width="1598" height="1362" alt="image" src="https://github.com/user-attachments/assets/2b2449d5-6d02-4a89-a0dd-325107b07483" />
 
+## What is the largest network you managed to deal with for each type of topology and algorithm?
+| Algorithm      | Topology | Nodes | Time (milliseconds)
+| ----------- | ----------- | ------| ------------- |
+| Gossip | Full | 10000  | 2,240 |
+| Gossip | Line |7000 |105000 | 
+| Gossip | 3D | 9000 | 90000|
+| Gossip | Imp3D | 10,000 | 112956 |
+| Pushsum | Full | 2000 |1574 |
+| Pushsum | Line |10000 | 150250| 
+| Pushsum | 3D |10,000 | 100200 |
+| Pushsum | Imp3D | 1000|100150 |
+
 
 
 
