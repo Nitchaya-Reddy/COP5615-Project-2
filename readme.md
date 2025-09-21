@@ -74,11 +74,11 @@
 
 ## Instructions:
 
-  chmod +x ./run_simulation.sh
-  ./run_simulation.sh 5 line push-sum
-  ./run_simulation.sh 50 imp3D gossip
-  ./run_simulation.sh 100 full push-sum
-  ./run_simulation.sh 3000 3D gossip
+ * chmod +x ./run_simulation.sh
+ * ./run_simulation.sh 5 line push-sum
+ * ./run_simulation.sh 50 imp3D gossip
+ * ./run_simulation.sh 100 full push-sum
+ * ./run_simulation.sh 3000 3D gossip
 ---
 
 ## Result of running: 
