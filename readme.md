@@ -84,18 +84,25 @@
 ## Result of running: 
 # Gossip full
 <img width="1254" height="1280" alt="image" src="https://github.com/user-attachments/assets/18dd43df-c5ab-41a1-8eec-70bd10e308ad" />
+
 # Gossip line
 <img width="1280" height="1102" alt="image" src="https://github.com/user-attachments/assets/29ca724b-c230-4172-b60e-382627157f18" />
+
 # Gossip 3D
 <img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/6103400a-7b56-4aa5-9afd-cd64727c989a" />
+
 # Gossip imp3D
 <img width="1280" height="731" alt="image" src="https://github.com/user-attachments/assets/cd8f7452-5dbe-470d-befc-cde2bf73ebb3" />
+
 # Push-sum full
 <img width="1598" height="1394" alt="image" src="https://github.com/user-attachments/assets/b7b59e77-aa0c-4e2f-b787-e1515b28825e" />
+
 # push-sum line
 <img width="1600" height="1350" alt="image" src="https://github.com/user-attachments/assets/ed19f706-3176-4fbd-baf9-f8a8189a0d88" />
+
 # push-sum 3D
 <img width="1600" height="1362" alt="image" src="https://github.com/user-attachments/assets/aa54076d-6c49-4f0b-ae65-45281140545d" />
+
 # push-sum imp3D
 <img width="1598" height="1362" alt="image" src="https://github.com/user-attachments/assets/2b2449d5-6d02-4a89-a0dd-325107b07483" />
 
