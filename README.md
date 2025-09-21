@@ -265,3 +265,7 @@ This simulator is suitable for:
 This implementation targets Gleam 1.12.0 compatibility. Minor dependency version adjustments may be required based on local environment configuration. Consult `gleam.toml` and `rebar.config` for version specifications.
 
 For detailed technical analysis, implementation details, and comprehensive examples, see `report-main.md`.
+
+
+<img width="1254" height="1280" alt="image" src="https://github.com/user-attachments/assets/e8092875-1eca-4891-bf06-87e2c4c74fd2" />
+
