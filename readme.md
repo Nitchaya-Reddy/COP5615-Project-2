@@ -5,7 +5,7 @@
 ## Group Info
 
 * Palapati Tanuja Naga Sai UF ID - 89475480
-* Venkata Nitchaya Reddy Konkala UF ID - 36102083
+* Venkata Nitchaya Reddy Konkala UF ID - 34102083
 
 ## Explanation
 
